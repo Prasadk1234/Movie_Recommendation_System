@@ -6,5 +6,6 @@
 
 ## How to strat
 * First you need to clone this repo on your machine
-* Their are some missing files and dataset
+* Their are some missing files and dataset you need to download this files
     * Dataset :https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+    * Files :https://drive.google.com/file/d/1nOSLWPpFAQoXKJ2fwyd_PQF5yCunRwrr/view?usp=drive_link
