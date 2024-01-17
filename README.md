@@ -12,4 +12,6 @@
 * You need to install Streamilit and then hit the command
 
          streamlit run main.py
+**You can see my work Google Colab also**
 
+* link :https://colab.research.google.com/drive/1S-uXR04n4cM1cwmpM1jyAwveIcHf26v0?usp=sharing
