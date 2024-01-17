@@ -10,4 +10,5 @@
     * Dataset :https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
     * Files :https://drive.google.com/file/d/1nOSLWPpFAQoXKJ2fwyd_PQF5yCunRwrr/view?usp=drive_link
 * You need to install Streamilit and then hit the command
-*       streamlit run main.py
+
+         streamlit run main.py
