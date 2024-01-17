@@ -12,3 +12,4 @@
 * You need to install Streamilit and then hit the command
 
          streamlit run main.py
+
